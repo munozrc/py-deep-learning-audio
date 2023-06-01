@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Audios for testing
+audios/
+
 # C extensions
 *.so
 
